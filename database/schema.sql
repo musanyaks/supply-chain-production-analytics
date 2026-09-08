@@ -1,0 +1,12 @@
+-- schema.sql
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+
+-- Drop tables if they exist to allow clean re-runs
+DROP TABLE IF EXISTS deliveries CASCADE;
+DROP TABLE IF EXISTS sales CASCADE;
+DROP TABLE IF EXISTS production CASCADE;
+DROP TABLE IF EXISTS procurement CASCADE;
+DROP TABLE IF EXISTS inventory CASCADE;
+DROP TABLE IF EXISTS customers CASCADE;
+DROP TABLE IF EXISTS suppliers CASCADE;
+DROP TABLE IF EXISTS products CASCADE;
