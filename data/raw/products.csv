@@ -1,0 +1,6 @@
+id,sku,name,unit_cost,holding_cost
+1,WIDGET-01,Steel Widget,5.00,1.20
+2,GADGET-01,Assembled Gadget,25.00,3.50
+3,SCREW-01,1mm Screw,0.10,0.02
+4,BOLT-02,Heavy Bolt,0.85,0.10
+5,COG-03,Brass Cog,12.50,1.00

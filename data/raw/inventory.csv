@@ -1,0 +1,6 @@
+product_id,quantity,safety_stock,lead_time_days
+1,450,50,7
+2,120,30,14
+3,5000,500,3
+4,850,100,5
+5,45,75,10
