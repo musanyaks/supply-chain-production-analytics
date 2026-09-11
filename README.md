@@ -9,7 +9,7 @@ An end-to-end, production-grade data engineering and analytics platform for supp
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-**🔗 Live Demo:** [[supply-chain-appuction-analytics-huanper2uchf36nkfvcuug.streamlit.app](https://supply-chain-appuction-analytics-huanper2uchf36nkfvcuug.streamlit.app/)]
+**🔗 Live Demo:** [supply-chain-appuction-analytics-huanper2uchf36nkfvcuug.streamlit.app](https://supply-chain-appuction-analytics-huanper2uchf36nkfvcuug.streamlit.app/)
 
 ---
 
